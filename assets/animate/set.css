@@ -18,7 +18,7 @@
 
 .grid figure img {
 	position: relative;
-	display: block;
+	/* display: block; */
 	max-width: 102%;
 	opacity: 1;
 }
@@ -63,7 +63,7 @@
 
 .grid figure h2,
 .grid figure p {
-	margin: 0;
+	/* margin: 0; */
 }
 
 .grid figure p {
