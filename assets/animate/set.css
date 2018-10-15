@@ -268,6 +268,9 @@ img.img-circle.img-responsive {
 	/* height: 5em; */
 	/* margin-left: 20%; */
 }
+.img-responsive {
+	width: -webkit-fill-available;
+}
 .fa-github{
   font-size: 62px;
   color: #FFFAF0;
