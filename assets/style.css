@@ -271,6 +271,7 @@ hr {
 .banner .caption-info p.quote {
 font: 1.5em Josefin Sans,Arial,Helvetica;color: rgba(255,255,255,.7);
 font-style: italic;
+padding-bottom: 16px;
 }
 
 .hello {
